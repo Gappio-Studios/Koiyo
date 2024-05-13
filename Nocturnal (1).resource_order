@@ -1,0 +1,8 @@
+{
+  "FolderOrderSettings": [
+    {"name":"InventorySystem","order":1,"path":"folders/Systems/InventorySystem.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"Sprite32","order":1,"path":"sprites/Sprite32/Sprite32.yy",},
+  ],
+}
